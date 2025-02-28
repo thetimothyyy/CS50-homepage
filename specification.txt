@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <nav> - Navigation bar
+2. <header> - Hero section
+3. <footer> - Footer content
+4. <img> - Images
+5. <div> - Layout structure
+6. <h1>, <h2>, <h3> - Headings
+7. <button> - Buttons
+8. <ul>, <li> - Lists for navigation
+9. <p> - Paragraphs
+10. <iframe> - Embed a Youtube video in a Bootstrap Carousel
+11. <svg> - Displays social media icons
+12. <form> - Contact form
+13. <input> - Text input for search
+
+CSS Properties Used (too many to list all):
+1. font-family
+2. font-size
+3. background-color
+4. border
+5. margin
+
+Bootstrap: Used for navbar, carousel, buttons, and form styling.
+Javascript: Used for sending contact form messages to personal email
